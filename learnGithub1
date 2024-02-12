@@ -1,0 +1,21 @@
+<template>
+
+    <p>this is first file to learn the github</p>
+    <div>
+        1.clone url
+        2.ls 
+        3.cd .\yourRepositaryName\
+        4.ls 
+        5. to open vs code code . 
+        6. create file in that folder  
+        7. ls 
+        8. git add .\yourcreatedfilename
+        9. git status 
+        10.git commit -m "message" (-m (commit message) is used to metioned the changes)
+        11.git status 
+        12. git push 
+        13.
+
+
+    </div>
+</template>
